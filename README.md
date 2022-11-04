@@ -24,6 +24,6 @@ From the results of the scraper bot, I tried to answer the following questions:
 
 To be completed
 
-## Space Invaders (Co-Op)
+## The Co-Op Space Invaders Project
 
 This is a 2 player space invaders game with a parralaax background made with pygame whose difficult progress as you play further.
