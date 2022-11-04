@@ -1,7 +1,7 @@
 # leecvz_portfolio
 A few of my favorite projects are here. Feel free to check them out! any and all feedbacks are also very much appreciated :)
 
-<div><span style="background-color: #9e4244; padding-top: 80px; padding-right: 20px; padding-bottom: 50px; padding-left: 20px; color: white; font-size: 22px; font-weight: bold">The JobStreet Project</span></div>
+## The JobStreet Project
 
 This is a 3 part project involving jobstreet.com.ph
 
@@ -24,6 +24,6 @@ From the results of the scraper bot, I tried to answer the following questions:
 
 To be completed
 
-<div><span style="background-color: #9e4244; padding-top: 80px; padding-right: 20px; padding-bottom: 50px; padding-left: 20px; color: white; font-size: 22px; font-weight: bold">Space Invaders (Co-Op)</span></div>
+## Space Invaders (Co-Op)
 
 This is a 2 player space invaders game with a parralaax background made with pygame whose difficult progress as you play further.
