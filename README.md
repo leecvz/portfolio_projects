@@ -24,6 +24,10 @@ From the results of the scraper bot, I tried to answer the following questions:
 
 To be completed
 
+## Medium SEO
+
+Scraped more than 700 of the top data science articles from medium.com to extract insights as to how write better data science articles
+
 ## The Co-Op Space Invaders Project
 
 This is a 2 player space invaders game with a parralaax background made with pygame whose difficult progress as you play further.
