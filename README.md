@@ -1,4 +1,3 @@
-# leecvz_portfolio
 A few of my favorite projects are here. Feel free to check them out! any and all feedbacks are also very much appreciated :)
 
 ## The JobStreet Project
