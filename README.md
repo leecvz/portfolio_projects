@@ -30,4 +30,4 @@ Scraped more than 700 of the top data science articles from medium.com to extrac
 
 ## The Co-Op Space Invaders Project
 
-This is a 2 player space invaders game with a parralaax background made with pygame whose difficult progress as you play further.
+This is a 2 player space invaders game with a parralax background made with pygame whose difficult progress as you play further.
